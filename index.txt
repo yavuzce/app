@@ -4,4 +4,4 @@ ikinci satir
 
 master dan gelen guncelleme
 remote masterdan ikinci satir
-
+remote masterdan guncelleme
